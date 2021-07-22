@@ -1,5 +1,7 @@
 ## Simple terminal spinner with go
 
+![gif example](https://github.com/sagarsearce/gospin/blob/master/ezgif.com-gif-maker.gif)
+
 ### Sample code 
 
 ```go
